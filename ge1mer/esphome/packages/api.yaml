@@ -4,4 +4,4 @@ api:
     key: !secret api_key
 
 dashboard_import:
-  package_import_url: github://Anonym-tsk/smart-domofon/ge1mer/domofon.yaml@master
+  package_import_url: github://mrQmpan/espdomofon/ge1mer/domofon.yaml@master
